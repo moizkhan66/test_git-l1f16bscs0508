@@ -1,2 +1,3 @@
-"Name: Muhammad Ali Makhdoom"  
 "Name:Muhammad Moiz Khan" 
+Email:muhammadmoizkhan6@gmail.com 
+Web applicaton development
